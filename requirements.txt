@@ -2,7 +2,7 @@ Flask
 gunicorn==20.1.0
 aiohttp==3.8.1
 pyrogram
-ffmpeg
+git+https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
 tgcrypto
 requests
 pyromod==1.5
